@@ -1,6 +1,4 @@
-# Final Project
-
-Please refer to [Final Project - Instructions](https://docs.google.com/document/d/1WTIlXO1I2D_5muNTrKTUjtx6dUmHqb8MzeYgwu9oky4/edit?usp=sharing) for full instructions.
+# paint images into cavases
 
 #Instructions for Running:
 
